@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name               = "universal_notification"
+  s.name               = "u_notify"
   s.version            = "0.0.1"
   s.default_executable = "u_notify"
 
