@@ -1,16 +1,17 @@
-# Notify-fcm
+<<<<<<< HEAD
+# U Notify
 
 Simple FCM (Firebase Cloud Messaging) Gem for sending Push Notifications to iOS as well as Android devices
 
 ## Installation
 
 ```ruby
-$ gem install notify_fcm
+$ gem install u_notify
 ```
 or in your Gemfile just include it:
 
 ```ruby
-gem 'notify_fcm'
+gem 'u_notify'
 ```
 ## Requirements
 
@@ -33,7 +34,7 @@ gem 'notify_fcm'
 * Example sending notifications:
 
 ```ruby
-require 'notify_fcm'
+require 'u_notify'
 
 fcm = NOTIFY_FCM.new("API-KEY")
 
